@@ -81,7 +81,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels imbalanced-
 - Combining multiple models into a Stacking Ensemble consistently outperforms any single model.
 - AUPRC is the most reliable measure of performance for highly imbalanced fraud data.
 - Adjusting the fraud decision threshold beyond the default 0.5 can significantly increase fraud recall without a proportional rise in false positives.
-
-## Author
-
-Raaz Nepali
